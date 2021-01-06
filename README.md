@@ -22,3 +22,8 @@ mvn spring-boot:run
 in pom base directory
 
 5: upload csv like sample1.csv
+
+
+
+
+I learn from google everyday
